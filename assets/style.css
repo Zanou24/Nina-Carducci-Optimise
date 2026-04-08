@@ -108,6 +108,7 @@ body {
 }
 .about-me__introduction {
   font-weight: 800;
+  font-size: 1rem;
   width: 60%;
 }
 #about-me p {
