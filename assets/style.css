@@ -167,6 +167,7 @@ form textarea {
 }
 .quote__text {
   font-weight: 300;
+  font-size: 2rem;
 }
 .quote__author {
   font-weight: 800;
@@ -242,7 +243,7 @@ input[type="submit"] {
     margin-top: 0;
     margin-bottom: 1em;
   }
-  #about-me h6,
+  .about-me__introduction,
   #about-me p {
     width: 100%;
   }
@@ -334,7 +335,7 @@ input[type="submit"] {
     width: 80%;
   }
 }
-.modal {
+/* .modal {
   display: none;
   position: fixed;
   inset: 0;
@@ -376,4 +377,4 @@ input[type="submit"] {
 }
 .modal-next {
   right: 20px;
-}
+} */
