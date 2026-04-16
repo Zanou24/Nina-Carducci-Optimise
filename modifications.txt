@@ -1,0 +1,20 @@
+Liste des modifications à effectuer pour le SEO : 
+
+Performance : 
+
+    - Convertir les images en webp
+    - Prévoir différentes tailles pour les images et utliser les plus adaptées.
+    - Ajouter l'attribut loading lazy pour que le chargement des images n'empêche pas la page de charger
+    - Ajouter defer aux fichiers js pour qu'ils ne ralentissent pas le chargement initial de la page
+
+
+Accessibilité/SEO : 
+
+    - Ajouter des alt aux images
+    - Ajouter la balise title
+    - Ajouter l'attribut lang à la balise HTML
+    - Lier les label aux input des formulaires
+    - Ajouter des balises plus sémanantiques (Header, main, footer, section...)
+    - Corriger l'ordre des titres et remplacer les titres quand ils ne sont pas nécessaires
+    - Ajouter une balise meta description
+    - Ajouter les balises meta pour OpenGraph
