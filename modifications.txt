@@ -18,3 +18,6 @@ Accessibilité/SEO :
     - Corriger l'ordre des titres et remplacer les titres quand ils ne sont pas nécessaires
     - Ajouter une balise meta description
     - Ajouter les balises meta pour OpenGraph
+    - Retravailler les contrastes
+
+// srcset pour les tailes d'images
