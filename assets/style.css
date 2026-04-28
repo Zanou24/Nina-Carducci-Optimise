@@ -283,6 +283,10 @@ input[type="submit"] {
   .service__description {
     margin-bottom: 1em;
   }
+  .service__price p {
+    font-size: calc(1.275rem + 0.3vw);
+    display: block;
+  }
   #services .container::before {
     width: 30%;
     height: 100%;
